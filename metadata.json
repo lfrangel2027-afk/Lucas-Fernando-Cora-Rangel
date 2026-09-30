@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Controle de Estoque apk",
+  "description": "Sistema de controle de estoque com contagem por palete, fardo e rolo, área simplificada para auxiliares e painel gerencial",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
